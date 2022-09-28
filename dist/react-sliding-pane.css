@@ -44,7 +44,7 @@
   transform: translateY(100%);
 }
 .slide-pane__overlay {
-  width: 100px;
+  width: 100%;
   max-width: 500px;
   position: fixed;
   top: 0px;
